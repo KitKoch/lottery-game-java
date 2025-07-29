@@ -1,7 +1,5 @@
-package test.java.com.kitkoch;
+package com.kitkoch;
 
-import com.kitkoch.ThreeDigitsLotteryGame;
-import com.kitkoch.ThreeDigitsLotteryGame.Rewards;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
